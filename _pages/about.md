@@ -12,4 +12,4 @@ Hi, I'm an incoming PhD student from [University of Southern California](https:/
 
 I am passionate about exploring a wide range of applications in machine learning, particularly those that address real-world problems. I enjoy discussing ideas, asking questions, and thinking deeply about complex systems. Please contact me directly if interested!
 
-[Email](mailto:yulinxu@usc.edu)/ [Wechat](../image/wechat.jpg)
+[Email](mailto:yulinxu@usc.edu)/ [Wechat](../images/wechat.jpg)
