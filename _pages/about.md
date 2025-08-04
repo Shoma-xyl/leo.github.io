@@ -16,9 +16,9 @@ I am passionate about exploring a wide range of applications in machine learning
 
 <h2><strong><span style="color:red">News</span></strong></h2>
 <ol id="news-list">
-  <li><strong></span></strong> [Jul 2025] Invited to serve as KDD 2026 Datasets and Benchmarks Track reviewer </li>
-  <li><strong></span></strong> [May 2025] One paper accepted by KDD 2025 ADS Track </li>
-  <li><strong></span></strong> [Mar 2025] To be an incoming PhD student at USC!!</li>
+  <li><strong>[Jul 2025]</strong> Invited to serve as KDD 2026 Datasets and Benchmarks Track reviewer</li>
+  <li><strong>[May 2025]</strong> One paper accepted by KDD 2025 ADS Track</li>
+  <li><strong>[Mar 2025]</strong> To be an incoming PhD student at USC!!</li>
 </ol>
 
 <button id="toggle-button" onclick="toggleNews()">Show More</button>
