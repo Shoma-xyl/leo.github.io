@@ -1,0 +1,8 @@
+<div class="archive__item">
+  <div class="archive__item-body">
+    <p class="archive__item-title">{{ post.title }}</p>
+    {% if post.venue %}
+      <p class="archive__item-excerpt">{{ post.venue }}, {{ post.type }}, {{ post.date | date: "%Y" }}</p>
+    {% endif %}
+  </div>
+</div>
