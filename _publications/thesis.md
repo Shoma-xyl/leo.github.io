@@ -1,0 +1,12 @@
+---
+title: "Leveraging Label Distributions as Anchors to Enhance Video Recommendation"
+collection: publications
+category: manuscripts
+permalink: /publication/2009-10-01-paper-title-number-1
+date: 2025-05-22
+venue: 'KDD 2025 ADS Track February'
+excerpt: 'Yulin Xu<sup>*</sup>, Chao Cui<sup>*</sup>, Shisong Tang<sup>*</sup>, Fan Li, Bing Han, Huafeng Cao, Jiechao Gao<sup>†</sup>, Hechang Chen'
+slidesurl: 'http://Shoma-xyl/leo.github.io/files/KDD2025.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3711896.3737276'
+bibtexurl: ''
+---
