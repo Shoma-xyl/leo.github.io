@@ -11,23 +11,23 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Education"
-    url: /talks/    
+  #- title: "Education"
+  #  url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Experience"
-    url: /portfolio/
+  #- title: "Experience"
+  #  url: /portfolio/
         
-  - title: "Awards"
-    url: /year-archive/
+  #- title: "Awards"
+  #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Service"
-    url: /markdown/
+  #- title: "Service"
+  #  url: /markdown/
