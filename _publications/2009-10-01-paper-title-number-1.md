@@ -3,9 +3,10 @@ title: "Leveraging Label Distributions as Anchors to Enhance Video Recommendatio
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-05-22
-venue: 'Journal 1'
+venue: 'KDD 2025 ADS Track February'
+excerpt: 'Yulin Xu*, Chao Cui*, Shisong Tang*, Fan Li, Bing Han, Huafeng Cao, Jiechao Gao†, Hechang Chen
+'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
