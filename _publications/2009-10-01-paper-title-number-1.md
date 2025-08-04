@@ -7,7 +7,7 @@ date: 2025-05-22
 venue: 'KDD 2025 ADS Track February'
 excerpt: 'Yulin Xu<sup>*</sup>, Chao Cui<sup>*</sup>, Shisong Tang<sup>*</sup>, Fan Li, Bing Han, Huafeng Cao, Jiechao Gao<sup>†</sup>, Hechang Chen'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+paperurl: 'https://dl.acm.org/doi/10.1145/3711896.3737276'
+bibtexurl: ''
 ---
 
