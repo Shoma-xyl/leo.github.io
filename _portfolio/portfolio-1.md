@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[Jul 2021-Aug 2021] Academic Internship, Institute of Computing Technology, Chinese Academy of Science, Beijing, China"
+excerpt: ""
 collection: portfolio
 ---
 
