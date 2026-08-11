@@ -1,18 +1,18 @@
 ---
-title: "Leveraging Label Distributions as Anchors to Enhance Video Recommendation"
+title: "Distribution-aware Re-representations for Multi-Scenario Recommendations"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-date: 2025-05-22
-venue: 'KDD ADS Track'
-excerpt: 'Yulin Xu<sup>*</sup>, Chao Cui<sup>*</sup>, Shisong Tang<sup>*</sup>, Fan Li, Bing Han, Huafeng Cao, Jiechao Gao<sup>†</sup>, Hechang Chen'
-paperurl: 'https://dl.acm.org/doi/10.1145/3711896.3737276'
-bibtexurl: '@inproceedings{xu2025leveraging,
-  title={Leveraging Label Distributions as Anchors to Enhance Video Recommendation},
-  author={Xu, Yulin and Cui, Chao and Tang, Shisong and Li, Fan and Han, Bing and Cao, Huafeng and Gao, Jiechao and Chen, Hechang},
-  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
-  pages={5129--5138},
-  year={2025}
+permalink: /publication/2026_SIGIR
+date: 2025-07-20
+venue: 'SIGIR'
+excerpt: 'Qi Sun<sup>*</sup>, Yulin Xu<sup>*</sup>, Zelin Wang<sup>*</sup>, Xiaoyu Kang, Keyan Jin, Jiechao Gao'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3805712.3809554'
+bibtexurl: '@inproceedings{sun2026distribution,
+  title={Distribution-aware Re-representations for Multi-Scenario Recommendations},
+  author={Sun, Qi and Xu, Yulin and Wang, Zelin and Kang, Xiaoyu and Jin, Keyan and Gao, Jiechao},
+  booktitle={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1709--1718},
+  year={2026}
 }'
 ---
 
