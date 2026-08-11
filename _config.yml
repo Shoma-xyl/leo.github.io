@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yulin Xu / Personal Homepage"
+title                    : "Yulin Xu"
 title_separator          : "-"
 name                     : &name "Yulin Xu"
 description              : &description "an incoming PhD student from University of Southern California"
