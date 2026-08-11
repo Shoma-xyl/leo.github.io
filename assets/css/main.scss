@@ -50,3 +50,167 @@ html {
 #misc {
   scroll-margin-top: 90px;
 }
+
+/* ==========================================================================
+   Single-page academic homepage
+   ========================================================================== */
+
+#main {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+.page {
+  float: none !important;
+  width: 100% !important;
+  max-width: 900px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.page__inner-wrap {
+  width: 100%;
+}
+
+/* Remove the heavy Academic Pages section separators */
+.page__content h2 {
+  margin-top: 3.2rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0;
+  border-bottom: none;
+  font-size: 1.55rem;
+  font-weight: 700;
+}
+
+.page__content p,
+.page__content li {
+  line-height: 1.7;
+}
+
+/* Hero */
+.home-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 180px;
+  gap: 3rem;
+  align-items: center;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.home-hero h1 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 2.35rem;
+  line-height: 1.15;
+}
+
+.home-subtitle {
+  margin-bottom: 1.4rem !important;
+  color: var(--global-text-color-light);
+  font-size: 1.05rem !important;
+}
+
+.home-hero__photo img {
+  width: 180px;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
+.home-links {
+  margin-top: 1.2rem !important;
+}
+
+.home-links a {
+  text-decoration: none !important;
+  font-weight: 600;
+}
+
+.home-links span {
+  margin: 0 0.35rem;
+  color: var(--global-text-color-light);
+}
+
+/* Sections */
+.home-section {
+  margin-top: 1rem;
+}
+
+/* News */
+.news-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.news-list li {
+  margin-bottom: 0.45rem;
+}
+
+.news-list strong {
+  display: inline-block;
+  min-width: 82px;
+}
+
+/* Publications */
+.pub-item {
+  margin-bottom: 2.2rem;
+}
+
+.pub-venue {
+  margin-bottom: 0.3rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+}
+
+.page__content .pub-title {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1.15rem;
+  line-height: 1.4;
+  border-bottom: none;
+}
+
+.pub-authors {
+  margin-bottom: 0.35rem;
+  line-height: 1.55;
+  font-size: 0.95rem;
+}
+
+.pub-links a {
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+/* Mobile */
+@media screen and (max-width: 700px) {
+  #main {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .home-hero {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .home-hero__photo {
+    grid-row: 1;
+  }
+
+  .home-hero__photo img {
+    width: 140px;
+  }
+
+  .home-hero h1 {
+    font-size: 2rem;
+  }
+}
