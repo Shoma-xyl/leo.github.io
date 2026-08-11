@@ -10,17 +10,26 @@ redirect_from:
 
 <div class="home-hero__text">
 
-# Yulin Xu
+<h1>Yulin Xu</h1>
 
 <p class="home-subtitle">
 Ph.D. Student · University of Southern California
 </p>
 
-Hi, I'm a second-year PhD student at [University of Southern California](https://www.usc.edu), advised by [Professor Corey E. Baker](https://viterbi.usc.edu/directory/faculty/Baker/Corey).
+<p>
+Hi, I'm a second-year PhD student at
+<a href="https://www.usc.edu">University of Southern California</a>,
+advised by
+<a href="https://viterbi.usc.edu/directory/faculty/Baker/Corey">Professor Corey E. Baker</a>.
+</p>
 
+<p>
 I am passionate about exploring a wide range of applications in machine learning, particularly those that address real-world problems. I enjoy discussing ideas, asking questions, and thinking deeply about complex systems.
+</p>
 
+<p>
 I am actively seeking internship positions in recommendation systems and autonomous systems.
+</p>
 
 <p class="home-links">
 <a href="mailto:yulinxu@usc.edu">Email</a>
@@ -41,7 +50,7 @@ I am actively seeking internship positions in recommendation systems and autonom
 </section>
 
 
-## News
+<h2>News</h2>
 
 <ul class="news-list">
   <li><strong>May 2026</strong> One paper accepted by ICML 2026</li>
@@ -56,16 +65,18 @@ I am actively seeking internship positions in recommendation systems and autonom
 
 <section id="research" class="home-section">
 
-## Research
+<h2>Research</h2>
 
+<p>
 My research interests include machine learning methods and their applications in recommendation systems and autonomous systems.
+</p>
 
 </section>
 
 
 <section id="publications" class="home-section">
 
-## Publications
+<h2>Publications</h2>
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
 
@@ -98,8 +109,10 @@ My research interests include machine learning methods and their applications in
 
 <section id="misc" class="home-section">
 
-## Life
+<h2>Life</h2>
 
-<!-- Life content can be added here later. -->
+<p>
+Outside of research, I enjoy playing tennis and watching professional tennis matches. I closely follow both the ATP and WTA tours and enjoy keeping up with tournaments throughout the season.
+</p>
 
 </section>
