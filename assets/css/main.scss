@@ -40,3 +40,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+html {
+  scroll-behavior: smooth;
+}
+
+#about,
+#research,
+#publications,
+#misc {
+  scroll-margin-top: 90px;
+}
